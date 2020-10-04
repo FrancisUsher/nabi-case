@@ -14,7 +14,7 @@ The order of the layers from top to bottom is as follows:
 | ------------- | ------------- | ------------- |
 | Bezel | The upper bezel layer, for a high-profile bezel (hiding the switches, only the keycaps will be visible) | Optional |
 | Bezel | The lower bezel layer, for a high-profile bezel (hiding the switches, only the keycaps will be visible) | Optional |
-| Plate | The switch plate. This is the top layer if you do a low-profile case. | Mandatory |
+| Plate | The switch plate. This is the top layer if you do a low-profile case. You may have to adjust the design if you plan on using stabilizers, since the current cutouts are insufficient. | Mandatory |
 | Mid | The upper mid layer, a thin outer layer leaving space inside for the switches and PCB  | Mandatory |
 | Mid | The lower mid layer, a thin outer layer leaving space inside for the switches and PCB  | Mandatory |
 | Bottom | The bottom plate. This is the bottom layer if you want the case to sit flat on the desk. | Mandatory |
