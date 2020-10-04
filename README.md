@@ -27,7 +27,7 @@ You can see the layers fairly clearly in a render here:
 In addition the case calls for the following mounting hardware:
 
 | Item  | Quantity |
-| ------------- | ------------- | ------------- |
+| ------------- | ------------- |
 | M2 Screws 10mm | 7 for the high profile case, 4 more if you add the feet layers. |
 | M2 Screws 5mm | 14 minus however many 10mm screws you used (above) |
 | M2 Threaded cylidrical brass standoffs 5mm, 3.15mm outer radius | 7 |
